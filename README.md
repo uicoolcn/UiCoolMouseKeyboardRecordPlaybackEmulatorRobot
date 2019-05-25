@@ -1,0 +1,2 @@
+# UiCoolMouseKeyboardRecordPlaybackEmulatorRobot
+优爱酷键盘鼠标操作录制回放模拟机器人(多语言版)_x86+x64
